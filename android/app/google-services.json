@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543105473668",
+    "project_id": "klassy-cafe-44ed7",
+    "storage_bucket": "klassy-cafe-44ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543105473668:android:485e779d4069aa4dddb6d1",
+        "android_client_info": {
+          "package_name": "com.example.klassy_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543105473668-jecf34g5sarim3eljo5i3fu0s9ji9enm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9Yz-dBP7g-NQN6GOvzEJT3lzQ2jt63I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543105473668-jecf34g5sarim3eljo5i3fu0s9ji9enm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
